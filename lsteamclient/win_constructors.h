@@ -10,6 +10,7 @@ extern void *create_winISteamGameSearch_SteamMatchGameSearch001(void *);
 extern void *create_winISteamParties_SteamParties002(void *);
 extern void *create_winISteamRemoteStorage_STEAMREMOTESTORAGE_INTERFACE_VERSION014(void *);
 extern void *create_winISteamUserStats_STEAMUSERSTATS_INTERFACE_VERSION011(void *);
+extern void *create_winISteamUserStats_STEAMUSERSTATS_INTERFACE_VERSION012(void *);
 extern void *create_winISteamApps_STEAMAPPS_INTERFACE_VERSION008(void *);
 extern void *create_winISteamNetworking_SteamNetworking006(void *);
 extern void *create_winISteamScreenshots_STEAMSCREENSHOTS_INTERFACE_VERSION003(void *);
